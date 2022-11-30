@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Erick Araujo.
 
-- 🔭 Hoje trabalho com desenvolvimento python.
-- 🌱 Me aprofundando em desenvolvimento Backend.
+- 🔭 Hoje trabalho com desenvolvimento Backend.
+- 🌱 Buscando crescer e melhorar cada dia mais.
 
  <div>
   <a href="https://github.com/lericke">
